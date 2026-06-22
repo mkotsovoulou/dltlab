@@ -1,0 +1,36 @@
+book_id,title,author_id,genre,year,rating,available
+1,1984,1,Dystopian,1949,4.8,true
+2,Animal Farm,1,Satire,1945,4.5,true
+3,Crime and Punishment,2,Psychological,1866,4.7,false
+4,The Idiot,2,Psychological,1869,4.4,true
+5,The Brothers Karamazov,2,Philosophical,1880,4.9,true
+6,The Old Man and the Sea,3,Literary Fiction,1952,4.3,true
+7,A Farewell to Arms,3,War,1929,4.2,false
+8,The Sun Also Rises,3,Literary Fiction,1926,4.1,true
+9,The Metamorphosis,4,Absurdist,1915,4.5,true
+10,The Trial,4,Absurdist,1925,4.3,false
+11,The Castle,4,Absurdist,1926,4.2,true
+12,One Hundred Years of Solitude,5,Magical Realism,1967,4.8,true
+13,Love in the Time of Cholera,5,Romantic,1985,4.6,false
+14,War and Peace,6,Historical,1869,4.7,true
+15,Anna Karenina,6,Realist,1878,4.6,true
+16,The Death of Ivan Ilyich,6,Philosophical,1886,4.5,true
+17,Pride and Prejudice,7,Romance,1813,4.7,true
+18,Sense and Sensibility,7,Romance,1811,4.4,true
+19,Emma,7,Comedy,1815,4.3,false
+20,The Stranger,8,Existentialist,1942,4.4,true
+21,The Plague,8,Philosophical,1947,4.5,true
+22,Norwegian Wood,9,Literary Fiction,1987,4.4,true
+23,Kafka on the Shore,9,Magical Realism,2002,4.5,false
+24,1Q84,9,Science Fiction,2009,4.3,true
+25,Things Fall Apart,10,Historical,1958,4.6,true
+26,No Longer at Ease,10,Literary Fiction,1960,4.2,false
+27,Mrs Dalloway,11,Modernist,1925,4.2,true
+28,To the Lighthouse,11,Modernist,1927,4.3,true
+29,Ficciones,12,Short Stories,1944,4.7,true
+30,Labyrinths,12,Short Stories,1962,4.6,false
+31,Beloved,13,Historical,1987,4.5,true
+32,Song of Solomon,13,Literary Fiction,1977,4.4,true
+33,The Iliad,14,Epic,800,4.6,true
+34,The Odyssey,14,Epic,700,4.7,true
+35,In Search of Lost Time,15,Modernist,1913,4.5,false
