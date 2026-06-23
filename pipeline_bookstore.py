@@ -10,7 +10,7 @@ def authors_resource():
         {"author_id": 4, "name": "Franz Kafka",        "nationality": "Czech",    "born": 1883},
     ]
 
-@dlt.resource(name="books", write_disposition="replace", primary_key="book_id")
+@dlt.resource(name="books", write_disposition="merge", primary_key="book_id")
 def books_resource():
     yield [
         {"book_id": 1, "title": "1984",                 "author_id": 1, "genre": "Dystopian",    "year": 1949, "rating": 4.8},

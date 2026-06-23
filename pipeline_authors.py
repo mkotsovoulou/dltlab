@@ -1,9 +1,6 @@
 # pipeline_authors.py
 import dlt
 
-# pipeline_authors.py
-import dlt
-
 @dlt.resource(name="authors", write_disposition="replace", primary_key="author_id")
 def authors_resource():
     yield [
@@ -13,11 +10,10 @@ def authors_resource():
         {"author_id": 4, "name": "Ernest Hemingway",   "nationality": "American", "born": 1899},
     ]
 
-
 pipeline = dlt.pipeline(
     pipeline_name = "bookstore_pipeline",
     destination   = "postgres",
-    dataset_name  = "raw_bookstore_mk"
+    dataset_name  = "raw_bookstore_mk" #MAKE SURE YOU USE YOUR NAME
 )
 
 load_info = pipeline.run(authors_resource())
