@@ -1,0 +1,101 @@
+id,name,category,price,stock,sku,brand,rating,reviews
+1,Wireless Bluetooth Headphones,Electronics,79.99,150,ELC-001,SoundMax,4.5,320
+2,Stainless Steel Water Bottle,Kitchen,24.99,400,KIT-002,HydroFlow,4.7,512
+3,Yoga Mat,Sports,34.99,200,SPT-003,FlexFit,4.6,289
+4,LED Desk Lamp,Home,45.99,180,HOM-004,BrightHome,4.3,176
+5,Running Shoes,Footwear,89.99,120,FTW-005,SpeedStep,4.4,430
+6,Mechanical Keyboard,Electronics,129.99,85,ELC-006,TypePro,4.6,215
+7,Coffee Maker,Kitchen,59.99,95,KIT-007,BrewMaster,4.2,388
+8,Resistance Bands Set,Sports,19.99,350,SPT-008,FlexFit,4.5,620
+9,Scented Candle,Home,18.99,500,HOM-009,AromaLux,4.1,290
+10,Backpack,Accessories,49.99,160,ACC-010,TrailBlaze,4.4,355
+11,Smartwatch,Electronics,199.99,75,ELC-011,TechWrist,4.3,180
+12,Cast Iron Skillet,Kitchen,39.99,130,KIT-012,IronChef,4.8,720
+13,Foam Roller,Sports,22.99,280,SPT-013,RecoverX,4.4,445
+14,Throw Blanket,Home,35.99,220,HOM-014,CozyNest,4.6,390
+15,Sunglasses,Accessories,59.99,200,ACC-015,SunShield,4.2,265
+16,Wireless Charger,Electronics,29.99,300,ELC-016,ChargeFast,4.3,510
+17,Blender,Kitchen,79.99,90,KIT-017,BlendPro,4.5,342
+18,Dumbbells Set,Sports,69.99,100,SPT-018,IronGrip,4.7,278
+19,Picture Frame,Home,14.99,600,HOM-019,FrameIt,4.0,180
+20,Leather Wallet,Accessories,39.99,250,ACC-020,SlimCarry,4.4,420
+21,USB-C Hub,Electronics,45.99,200,ELC-021,ConnectAll,4.5,310
+22,Air Fryer,Kitchen,99.99,80,KIT-022,CrispKing,4.6,560
+23,Jump Rope,Sports,12.99,400,SPT-023,SpeedJump,4.3,380
+24,Diffuser,Home,32.99,175,HOM-024,AromaLux,4.4,295
+25,Tote Bag,Accessories,27.99,300,ACC-025,EcoCarry,4.2,210
+26,Portable Speaker,Electronics,59.99,140,ELC-026,BoomBox,4.4,420
+27,Knife Set,Kitchen,89.99,70,KIT-027,SharpEdge,4.7,285
+28,Gym Gloves,Sports,16.99,350,SPT-028,GripMax,4.2,315
+29,Storage Basket,Home,22.99,400,HOM-029,OrganizeIt,4.3,225
+30,Sunscreen SPF 50,Beauty,18.99,500,BTY-030,SkinGuard,4.5,670
+31,Tablet Stand,Electronics,19.99,300,ELC-031,DeskMate,4.4,480
+32,Meal Prep Containers,Kitchen,29.99,250,KIT-032,FreshKeep,4.5,590
+33,Bicycle Helmet,Sports,55.99,90,SPT-033,SafeRide,4.6,230
+34,Throw Pillows,Home,34.99,300,HOM-034,CozyNest,4.3,185
+35,Moisturizer,Beauty,28.99,350,BTY-035,GlowUp,4.4,445
+36,Laptop Sleeve,Electronics,24.99,200,ELC-036,GuardIt,4.3,310
+37,Instant Pot,Kitchen,89.99,65,KIT-037,PressurePro,4.8,820
+38,Water Bottle,Sports,19.99,500,SPT-038,HydroMax,4.5,710
+39,Wall Clock,Home,29.99,180,HOM-039,TimeArt,4.2,195
+40,Hair Dryer,Beauty,49.99,120,BTY-040,BlowOut,4.3,380
+41,Wireless Mouse,Electronics,35.99,250,ELC-041,ClickPro,4.4,420
+42,Salad Spinner,Kitchen,26.99,200,KIT-042,SpinFresh,4.3,275
+43,Swim Goggles,Sports,17.99,300,SPT-043,AquaView,4.4,340
+44,Laundry Basket,Home,24.99,350,HOM-044,NeatHome,4.1,165
+45,Lip Balm Set,Beauty,12.99,600,BTY-045,SoftLips,4.5,540
+46,Smart Plug,Electronics,22.99,400,ELC-046,AutoHome,4.4,610
+47,French Press,Kitchen,34.99,150,KIT-047,BrewMaster,4.6,395
+48,Tennis Racket,Sports,79.99,80,SPT-048,AcePlay,4.3,195
+49,Bookend Set,Home,21.99,300,HOM-049,ReadSpace,4.2,145
+50,Face Mask Set,Beauty,15.99,700,BTY-050,GlowUp,4.3,590
+51,Webcam HD,Electronics,69.99,110,ELC-051,ClearView,4.4,305
+52,Cutting Board,Kitchen,28.99,250,KIT-052,ChopRight,4.6,460
+53,Kettlebell,Sports,44.99,120,SPT-053,IronGrip,4.7,235
+54,Candle Holders,Home,19.99,400,HOM-054,AromaLux,4.2,200
+55,Nail Polish Set,Beauty,22.99,450,BTY-055,ColorNails,4.1,325
+56,External SSD,Electronics,89.99,95,ELC-056,DataVault,4.7,280
+57,Cheese Grater,Kitchen,14.99,350,KIT-057,GrateIt,4.4,320
+58,Hiking Boots,Sports,119.99,70,SPT-058,TrailMax,4.5,210
+59,Decorative Vase,Home,32.99,200,HOM-059,ArtSpace,4.3,170
+60,Perfume,Beauty,65.99,150,BTY-060,Essence,4.5,480
+61,Noise Cancelling Earbuds,Electronics,149.99,90,ELC-061,SoundMax,4.6,365
+62,Spice Rack,Kitchen,38.99,160,KIT-062,SpiceUp,4.4,290
+63,Yoga Blocks,Sports,18.99,300,SPT-063,FlexFit,4.5,410
+64,Desk Organizer,Home,26.99,280,HOM-064,CleanDesk,4.3,245
+65,Shampoo,Beauty,14.99,600,BTY-065,HairGlow,4.2,530
+66,Screen Protector,Electronics,12.99,500,ELC-066,GuardIt,4.3,680
+67,Muffin Tin,Kitchen,22.99,280,KIT-067,BakePro,4.5,350
+68,Cycling Shorts,Sports,39.99,150,SPT-068,SpeedCycle,4.4,275
+69,Plant Pot,Home,17.99,450,HOM-069,GreenSpace,4.2,210
+70,Conditioner,Beauty,13.99,600,BTY-070,HairGlow,4.3,480
+71,Power Bank,Electronics,49.99,200,ELC-071,ChargeFast,4.5,540
+72,Pie Dish,Kitchen,19.99,250,KIT-072,BakePro,4.4,280
+73,Soccer Ball,Sports,32.99,180,SPT-073,GoalKick,4.5,320
+74,Dish Rack,Home,28.99,250,HOM-074,NeatHome,4.3,240
+75,Nail File Set,Beauty,9.99,700,BTY-075,ColorNails,4.1,295
+76,HDMI Cable,Electronics,15.99,500,ELC-076,ConnectAll,4.4,720
+77,Baking Sheet,Kitchen,24.99,300,KIT-077,BakePro,4.6,490
+78,Fitness Tracker,Sports,69.99,100,SPT-078,FitBand,4.4,365
+79,Hand Soap,Home,8.99,800,HOM-079,CleanHome,4.3,410
+80,Eye Cream,Beauty,38.99,200,BTY-080,GlowUp,4.5,370
+81,Monitor Stand,Electronics,42.99,150,ELC-081,DeskMate,4.5,285
+82,Mixing Bowls Set,Kitchen,34.99,200,KIT-082,PrepRight,4.6,410
+83,Basketball,Sports,44.99,120,SPT-083,HoopKing,4.4,250
+84,Curtain Rods,Home,22.99,300,HOM-084,HomeStyle,4.2,180
+85,Body Lotion,Beauty,18.99,500,BTY-085,SkinGuard,4.3,520
+86,Cable Organizer,Electronics,16.99,400,ELC-086,NeatCable,4.4,460
+87,Vegetable Peeler,Kitchen,9.99,500,KIT-087,ChopRight,4.5,580
+88,Yoga Strap,Sports,11.99,350,SPT-088,FlexFit,4.4,390
+89,Doormat,Home,24.99,300,HOM-089,HomeStyle,4.2,215
+90,Toner,Beauty,26.99,350,BTY-090,GlowUp,4.4,400
+91,Drawing Tablet,Electronics,159.99,60,ELC-091,ArtBoard,4.6,195
+92,Slow Cooker,Kitchen,69.99,75,KIT-092,SlowMaster,4.5,465
+93,Pilates Ball,Sports,21.99,250,SPT-093,FlexFit,4.3,310
+94,Bathroom Scale,Home,35.99,180,HOM-094,FitHome,4.4,395
+95,Serum,Beauty,45.99,250,BTY-095,GlowUp,4.6,485
+96,Ring Light,Electronics,39.99,130,ELC-096,BrightShot,4.5,540
+97,Can Opener,Kitchen,12.99,400,KIT-097,KitchenPro,4.3,350
+98,Swim Cap,Sports,8.99,500,SPT-098,AquaView,4.2,280
+99,Aroma Diffuser,Home,44.99,160,HOM-099,AromaLux,4.5,330
+100,Sunscreen SPF 30,Beauty,16.99,550,BTY-100,SkinGuard,4.4,610
