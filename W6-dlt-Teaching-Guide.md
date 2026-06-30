@@ -704,10 +704,21 @@ author_id: 19  Leo Tolstoy          Russian    born 1828
 author_id: 20  Simone de Beauvoir   French     born 1908
 ```
 
-You can verify they are there before running the pipeline:
+You can verify they are there before running the pipeline using **MongoDB Compass**:
 
-```bash
-docker exec -it de49b267b0b4 mongosh bookstore --eval 'db.authors.find({}, {_id:0}).pretty()'
+1. Open MongoDB Compass
+2. Click **New connection**
+3. Paste this connection string:
+   ```
+   mongodb://admin:yourpassword@172.20.14.29:27017
+   ```
+4. The TLS/SSL warning at the bottom is expected — this is a classroom server on a private network. Ignore it and click **Save & Connect**
+5. In the left panel, expand **bookstore** → click **authors**
+6. You should see 20 documents — the original 15 plus the 5 new authors
+
+To filter only the new ones, click **Add Filter** and enter:
+```json
+{ "author_id": { "$gte": 16 } }
 ```
 
 ### What changes vs the previous sources
