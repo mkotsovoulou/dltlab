@@ -1,0 +1,7 @@
+db.authors.insertMany([
+  { author_id: 16, name: "Haruki Murakami",     nationality: "Japanese", born: 1949 },
+  { author_id: 17, name: "Toni Morrison",        nationality: "American", born: 1931 },
+  { author_id: 18, name: "Chinua Achebe",        nationality: "Nigerian", born: 1930 },
+  { author_id: 19, name: "Leo Tolstoy",          nationality: "Russian",  born: 1828 },
+  { author_id: 20, name: "Simone de Beauvoir",   nationality: "French",   born: 1908 }
+])
